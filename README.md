@@ -1,2 +1,2 @@
 ## My portfolio website
-[View demo](./)
+[View demo]("https://wingyin-ken.netlify.app")
