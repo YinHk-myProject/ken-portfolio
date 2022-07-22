@@ -7,7 +7,7 @@ class Footer extends Component {
                 <footer id="footer" className="footer footer-s4">
                     <div className="container">
                         <div id="footer-widget" className="footer-widget-s3 border-bottom-s2 position-relative">
-                            <h3 className="widget-title larger lt-sp06 text-white text-center">Free feel to connect me!</h3>
+                            <h3 className="widget-title larger lt-sp06 text-white text-center">Feel free to connect me!</h3>
                             <div className="site-list site-list-center text-center">
                             </div>
                         </div>
